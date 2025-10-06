@@ -1,4 +1,4 @@
-### 1. Sales Performance Analysis
+### Sales Performance Analysis
 **Short Description:** Analyze sales data to uncover trends, compare product and regional performance, and visualize key metrics to support strategic decision-making.
 
 **Overview:**  
