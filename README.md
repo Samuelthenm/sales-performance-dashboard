@@ -4,13 +4,13 @@
 **Overview:**  
 This project demonstrates the ability to analyze sales datasets using Python, Matplotlib, and Seaborn. Key analyses include total sales by product and region, units sold over time, and insights into business performance.
 
-## 📊 Visualizations
-- ![Sales by Product](sales_by_product.png)
-- ![Sales by Region](sales_by_region.png)
-- ![Units Sold Over Time](units_sold_over_time.png)
-
 **Skills Highlighted:**  
 - Data cleaning and summary statistics  
 - KPI analysis and insights generation  
 - Data visualization (Matplotlib, Seaborn)  
-- Excel and Python integration  
+- Excel and Python integration
+  
+## 📊 Visualizations
+![Sales by Product](sales_by_product.png)
+![Sales by Region](sales_by_region.png)
+![Units Sold Over Time](units_sold_over_time.png)
