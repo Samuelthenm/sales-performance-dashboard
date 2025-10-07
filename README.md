@@ -9,6 +9,9 @@ This project demonstrates the ability to analyze sales datasets using Python, Ma
 - KPI analysis and insights generation  
 - Data visualization (Matplotlib, Seaborn)  
 - Excel and Python integration
+
+## 📊 Code Preview
+![Code Preview](notebook-screenshot.png)
   
 ## 📊 Visualizations
 ![Sales by Product](sales_by_product.png)
